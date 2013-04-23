@@ -11,23 +11,23 @@ A basic LM35 circuit setup looks like the image below. The pinout is:
 
 ## Installation
 To use it with Arduino, go the drive or folder you placed your Arduino IDE in and then place the folder in the Libraries folder.  
-    path to Arduino > Libraries > place here
+    ```path to Arduino > Libraries > place here```
 The example code can be accessed by opening the Arduino IDE.  
-    File > Examples > LM35 > TempSerialMon  
+    ```File > Examples > LM35 > TempSerialMon```  
 
 ## Usage
 Include the library header file in your sketch.  
-    #include <lm35.h>  
+    ```#include <lm35.h>```  
 Create an object using any name (except lm35) to setup the sensor. The object should include a parameter which corressponds to the pin the sensor is connected to on the Arduino.  
-    lm35 temps(0);  
+    ````lm35 temps(0);````  
 Here the object is called 'temps' is the object and the number between the first brackets is the pin number the sensor is connected to.
 
 In the 'loop()' function, call the temperature measure function.  
-    temps.MeasureTemp();  
+    ```temps.MeasureTemp();```  
 To get the temperature in Celcius, use TempInCelcius.  
-    temps.TempInCelcius  
+    ```temps.TempInCelcius```  
 To get the temperature in Fahrenheit, use TempInFahrenheit.  
-    temps.TempInFahrenheit  
+    ```temps.TempInFahrenheit```  
 
 ## License
 This library is released under the GNU General Public License 2.0. To read the full text visit the [site](https://gnu.org/licenses/gpl.html).
