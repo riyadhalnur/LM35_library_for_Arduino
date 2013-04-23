@@ -11,7 +11,7 @@ A basic LM35 circuit setup looks like the image below. The pinout is:
 
 ## Installation
 To use it with Arduino, go the drive or folder you placed your Arduino IDE in and then place the folder in the Libraries folder.  
-    ```path to Arduino > Libraries > place here```
+    ```path to Arduino > Libraries > place here```  
 The example code can be accessed by opening the Arduino IDE.  
     ```File > Examples > LM35 > TempSerialMon```  
 
