@@ -21,5 +21,5 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 *.ino diff=astextplain
-.cpp diff=astextplain
-.h diff=astextplain
+*.cpp diff=astextplain
+*.h diff=astextplain
