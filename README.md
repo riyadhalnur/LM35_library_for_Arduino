@@ -1,6 +1,6 @@
 # LM35 Analog Linear Temperature Sensor Library for Arduino
 
-This library for [Arduino](http://www.arduino.cc) allows you to use the LM35 Analog Temperature Sensor to measure the ambient temperature and output it in Celcius and Fahrenheit. Normally, this sensor measures temperature in Celcius but the library contains the ability to get the temperature readings in Fahrenheit. The library also compensates for the 10 mV error in the tempearute readings. You can view the datasheett from http://www.ti.com/product/lm35.
+This library for [Arduino](http://www.arduino.cc) allows you to use the LM35 Analog Temperature Sensor to measure the ambient temperature and output it in Celcius and Fahrenheit. Normally, this sensor measures temperature in Celcius but the library can also output the temperature readings in Fahrenheit. The library also compensates for the 10 mV error in the tempearute readings. You can view the datasheet from http://www.ti.com/product/lm35.
 
 ## Ciruit Diagram
 A basic LM35 circuit setup looks like the image below. The pinout is:  
@@ -11,9 +11,10 @@ A basic LM35 circuit setup looks like the image below. The pinout is:
 
 ## Installation
 To use it with Arduino, go the drive or folder you placed your Arduino IDE in and then place the folder in the Libraries folder.  
-    ```path to Arduino > Libraries > place here```  
+    ```path_to_Arduino > Libraries > place_here```  
 The example code can be accessed by opening the Arduino IDE.  
-    ```File > Examples > LM35 > TempSerialMon```  
+    ```File > Examples > LM35 > TempSerialMon```   
+I find it best to rename the folder 'LM35'. 
 
 ## Usage
 Include the library header file in your sketch.  
