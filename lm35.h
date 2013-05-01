@@ -1,5 +1,6 @@
 /*
   lm35.h - LM35 Analog Linear Temperature Sensor Library
+  Version 1.1
   2013 Copyright (c) Riyadh Al Nur.  All rights reserved.
 
   This library is free software; you can redistribute it and/or
@@ -16,7 +17,7 @@
   License along with this library; if not, write to the Free Software
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
-  #ifndef lm35_H
+#ifndef lm35_H
 #define lm35_H
 
 class lm35

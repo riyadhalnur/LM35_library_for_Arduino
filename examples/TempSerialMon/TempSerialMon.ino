@@ -10,7 +10,8 @@ riyadhalnur.wordpress.com
 
 Created on: 23/04/2013
 by Riyadh Al Nur
-the LM35 library copyright (c) 2013 Riyadh Al Nur. All rights reserved.
+Version 1.1
+The LM35 library copyright (c) 2013 Riyadh Al Nur. All rights reserved.
 */
 #include <lm35.h> // include the library header
 

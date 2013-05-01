@@ -5,13 +5,10 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-
 lm35	KEYWORD1
-
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-
 TempInCelcius	KEYWORD2
 TempInFahrenheit	KEYWORD2
 MeasureTemp	KEYWORD2

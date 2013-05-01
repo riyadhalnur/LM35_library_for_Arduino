@@ -1,6 +1,6 @@
-# LM35 Analog Linear Temperature Sensor Library for Arduino
+# LM35 Analog Linear Temperature Sensor Library for Arduino v1.1
 
-This library for [Arduino](http://www.arduino.cc) allows you to use the LM35 Analog Temperature Sensor to measure the ambient temperature and output it in Celcius and Fahrenheit. Normally, this sensor measures temperature in Celcius but the library can also output the temperature readings in Fahrenheit. The library also compensates for the 10 mV error in the tempearute readings. You can view the datasheet from http://www.ti.com/product/lm35.
+This library for [Arduino](http://www.arduino.cc) allows you to use the LM35 Analog Temperature Sensor to measure the ambient temperature and output it in Celcius and Fahrenheit. Normally, this sensor measures temperature in Celcius but the library can also output the temperature readings in Fahrenheit. The library also compensates for the 10 mV error in the temperature readings. You can view the datasheet from http://www.ti.com/product/lm35.
 
 ## Ciruit Diagram
 A basic LM35 circuit setup looks like the image below. The pinout is:  
@@ -30,10 +30,25 @@ To get the temperature in Celcius, use TempInCelcius.
 To get the temperature in Fahrenheit, use TempInFahrenheit.  
     ```temps.TempInFahrenheit```  
 
+## Changelog
+Changes in 1.1 
+* Fixed few lines of code 
+* Cleanup of original code
+* Updated README
+
+## Planned Updates 
+These are ideas that I'm currently working on implementing in future updates. I don't know how successful I will be in completing them but I will be activiely developing it in this repo. So if anyone wants to help out, you are most welcome. 
+* Processing sketch to plot temperature readings in real-time 
+* Add interaction to plot 
+* Store temperature data in MySQL database 
+* Use database records to draw jQuery based plots on webpage
+
 ## License
-This library is released under the GNU General Public License 2.0. To read the full text visit the [site](https://gnu.org/licenses/gpl.html).
+This library is released under the GNU General Public License 2.1. To read the full text visit the [site](https://gnu.org/licenses/gpl.html).
 
 ## More information
 For more information, please visit [riyadhalnur.wordpress.com](http://riyadhalnur.wordpress.com)
+
+Follow me on [twitter](https://twitter.com/riyadhalnur),  [LinkedIn](http://www.linkedin.com/riyadhalnur),  [Google+](http://plus.google.com/riyadhalnur) or [Facebook](http://www.facebook.com/riyadhalnur).
 
 Copyright &copy; 2013 Riyadh Al Nur. All rights reserved.

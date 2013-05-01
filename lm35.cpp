@@ -1,5 +1,6 @@
 /*
   lm35.h - LM35 Analog Linear Temperature Sensor Library
+  Version 1.1
   2013 Copyright (c) Riyadh Al Nur.  All rights reserved.
 
   This library is free software; you can redistribute it and/or
@@ -36,6 +37,6 @@ void lm35::MeasureTemp(void)
   val = analogRead(_pin);
   dat = (val*500)>>10; // adjust sensor value by 500 (the sensor outputs readings at mV) and adjust for 10mV offset (see datasheet)
   TempInCelcius = dat;
-  fah = (TempInCelcius * (9.0/5.0)) + 32; // convert celcius to fahrenheit
+  fah = (dat * (9/5)) + 32; // convert celcius to fahrenheit
   TempInFahrenheit = fah;
 }
