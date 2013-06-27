@@ -38,7 +38,7 @@ Changes in 1.1
 
 ## Planned Updates 
 These are ideas that I'm currently working on implementing in future updates. I don't know how successful I will be in completing them but I will be activiely developing it in this repo. So if anyone wants to help out, you are most welcome. 
-* Processing sketch to plot temperature readings in real-time 
+* Processing sketch to plot temperature readings in real-time or over a period
 * Add interaction to plot 
 * Store temperature data in MySQL database 
 * Use database records to draw jQuery based plots on webpage
