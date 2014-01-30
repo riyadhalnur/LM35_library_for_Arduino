@@ -52,3 +52,6 @@ For more information, please visit [riyadhalnur.wordpress.com](http://riyadhalnu
 Follow me on [twitter](https://twitter.com/riyadhalnur),  [LinkedIn](http://www.linkedin.com/riyadhalnur),  [Google+](http://plus.google.com/riyadhalnur) or [Facebook](http://www.facebook.com/riyadhalnur).
 
 Copyright &copy; 2013 Riyadh Al Nur. All rights reserved.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/riyadhalnur/lm35_library_for_arduino/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
