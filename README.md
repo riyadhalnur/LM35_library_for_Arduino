@@ -47,9 +47,9 @@ These are ideas that I'm currently working on implementing in future updates. I 
 This library is released under the GNU General Public License 2.1. To read the full text visit the [site](https://gnu.org/licenses/gpl.html).
 
 ## More information
-For more information, please visit [riyadhalnur.wordpress.com](http://riyadhalnur.wordpress.com)
+For more information, please visit [blog.verticalaxisbd.com](http://blog.verticalaxisbd.com)
 
-Follow me on [twitter](https://twitter.com/riyadhalnur),  [LinkedIn](http://www.linkedin.com/riyadhalnur),  [Google+](http://plus.google.com/riyadhalnur) or [Facebook](http://www.facebook.com/riyadhalnur).
+Follow me on [twitter](https://twitter.com/riyadhalnur),  [LinkedIn](http://bd.linkedin.com/in/riyadhalnur),  [Google+](http://plus.google.com//u/0/+RiyadhAlNur) or [Facebook](http://www.facebook.com/riyadhalnur).
 
 Copyright &copy; 2013 Riyadh Al Nur. All rights reserved.
 
