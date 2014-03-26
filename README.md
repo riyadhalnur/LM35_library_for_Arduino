@@ -53,9 +53,3 @@ Follow me on [twitter](https://twitter.com/riyadhalnur),  [LinkedIn](http://bd.l
 
 Copyright &copy; 2013 Riyadh Al Nur. All rights reserved.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/riyadhalnur/lm35_library_for_arduino/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/riyadhalnur/lm35_library_for_arduino/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
